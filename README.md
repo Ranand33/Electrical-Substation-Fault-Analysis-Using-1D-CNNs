@@ -3,13 +3,13 @@
 1D-CNN models for predicting electrical substation events using Power Communication Module
 (PCM) data. Compares Simple 1D-CNN, 1D ResNet, and TCN architectures against
 classical baselines (Logistic Regression, Random Forest, XGBoost) on a binary
-classification
+classification.
 
 ## Structure
 ```
-lib/         Core modules: models, dataset, training loop, evaluation, plots
-steps/       Pipeline scripts (run in numeric order)
-run_pipeline.sh  End-to-end pipeline runner
+lib/ = Core modules: models, dataset, training loop, evaluation, plots
+steps/ = Pipeline scripts (run in numeric order)
+run_pipeline.sh = End-to-end pipeline runner
 ```
 
 ## Setup
@@ -31,4 +31,4 @@ or run individual steps. For example,
 ```
 
 ## License
-MIT — see [LICENSE](LICENSE).
+MIT - see [LICENSE](LICENSE).
