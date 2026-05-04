@@ -5,6 +5,8 @@
 classical baselines (Logistic Regression, Random Forest, XGBoost) on a binary
 classification.
 
+[![Click to Read Paper](/Paper.png)](/Paper.pdf)
+
 ## Structure
 ```
 lib/ = Core modules: models, dataset, training loop, evaluation, plots
