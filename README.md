@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ```
 or run individual steps. For example,
 ```bash
-`01_preprocess.py`
+./steps/01_preprocess.py
 ```
 
 ## License
