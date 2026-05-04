@@ -1,0 +1,1 @@
+# Electrical-Substation-Fault-Analysis-Using-1D-CNNs
